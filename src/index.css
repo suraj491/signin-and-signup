@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.form-control{
+  max-block-size: 200px;
+  padding-left: 40px;
+  text-align: center;
+}
+.loginContainer{
+  background-color: aqua;
+}
